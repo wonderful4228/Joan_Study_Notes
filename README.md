@@ -37,6 +37,6 @@ Joan_Study_Notes
 
 
 ##感悟
-[做自动化测试这一年的感悟](http://bbs.51testing.com/thread-1008005-1-1.html "悬停显示")
+[做自动化测试这一年的感悟](http://bbs.51testing.com/thread-1008005-1-1.html)
 
 
